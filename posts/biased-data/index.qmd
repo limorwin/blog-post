@@ -53,7 +53,7 @@ Bias has also been observed in credit scoring and loan approval systems. When hi
 
 Another area of concern is predictive policing and criminal justice risk assessment tools. These systems often rely on historical arrest or conviction data. Because policing practices have disproportionately targeted certain neighborhoods and demographic groups, the data itself reflects systemic bias. When algorithms use this data to predict crime or recidivism, they may unfairly label individuals as high-risk based on patterns rooted in unequal enforcement rather than actual behavior.
 
-These examples illustrate that algorithmic bias is not just a technical issue—it has real consequences for people’s lives and opportunities.
+These examples illustrate that algorithmic bias is not just a technical issue, it has real consequences for people’s lives and opportunities.
 
 ---
 
