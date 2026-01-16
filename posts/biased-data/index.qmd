@@ -43,7 +43,7 @@ Another issue is that algorithms often rely on proxy variables. Even if sensitiv
 
 ---
 
-## Real-World Examples of Algorithmic Bias
+## Real World Examples of Algorithmic Bias
 
 The consequences of biased algorithms are not theoretical; they appear in many real world applications.
 
