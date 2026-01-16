@@ -197,7 +197,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Addressing algorithmic bias is challenging, and there is no single solution. One common misconception is that removing sensitive attributes like race or gender from a dataset will automatically make an algorithm fair. In reality, bias can persist through proxy variables and structural patterns in the data.</p>
 <p>Improving fairness often requires changes at multiple stages of the data science pipeline. This includes collecting more representative data, carefully examining how features are defined, and choosing evaluation metrics that go beyond overall accuracy. In some cases, “fairness aware” algorithms can be used to balance competing goals, though these approaches often involve tradeoffs.</p>
 <p>Transparency and accountability are also crucial. When algorithms are used in high-stakes decision making, it should be clear how they work, what data they rely on, and what limitations they have. Human oversight remains essential, particularly in contexts where automated decisions can significantly impact individuals’ lives.</p>
-<p>Ultimately, algorithmic fairness is not just a technical problem—it is a social one. Decisions about what counts as “fair” depend on values, context, and societal priorities.</p>
+<p>Ultimately, algorithmic fairness is not just a technical problem, it is a social one. Decisions about what counts as “fair” depend on values, context, and societal priorities.</p>
 <hr>
 </section>
 <section id="conclusion-why-this-matters-to-everyone" class="level2">
@@ -282,7 +282,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/limorwin\.github\.io\/blog-post\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
