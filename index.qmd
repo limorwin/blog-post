@@ -1,14 +1,11 @@
 ---
-title: "Algorithms Aren't Neutral: How Biased Data Creates Unfair Outcomes"
+title: "Blog"
 listing:
   contents: posts
   sort: "date desc"
   type: default
   categories: true
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+  page-size: 10
 ---
 
-
+Welcome! This blog explores how biased data can lead to unfair algorithms.

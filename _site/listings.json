@@ -1,15 +1,7 @@
 [
   {
-    "listing": "/posts/index.html",
-    "items": [
-      "/posts/posts/post-with-code/index.html",
-      "/posts/posts/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
-      "/posts/index.html",
       "/posts/biased-data/index.html"
     ]
   }
