@@ -65,7 +65,7 @@ Improving fairness often requires changes at multiple stages of the data science
 
 Transparency and accountability are also crucial. When algorithms are used in high-stakes decision making, it should be clear how they work, what data they rely on, and what limitations they have. Human oversight remains essential, particularly in contexts where automated decisions can significantly impact individuals’ lives.
 
-Ultimately, algorithmic fairness is not just a technical problem—it is a social one. Decisions about what counts as “fair” depend on values, context, and societal priorities.
+Ultimately, algorithmic fairness is not just a technical problem, it is a social one. Decisions about what counts as “fair” depend on values, context, and societal priorities.
 
 ---
 
